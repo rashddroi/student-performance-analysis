@@ -1,0 +1,1402 @@
+AGE_AT_ADMISSION,GENDER,STATE_OF_ORIGIN,COURSE_OF_STUDY,FINAL_CGPA,CLASS_OF_DEGREE
+16.0,M,Oyo,Accounting,4.79,First Class
+18.0,F,Oyo,Accounting,4.71,First Class
+17.0,F,Ogun,Accounting,4.07,Second Class Upper
+16.0,F,Lagos,Accounting,3.7,Second Class Upper
+16.0,F,Kwara,Accounting,4.31,Second Class Upper
+17.0,M,Lagos,Accounting,4.32,Second Class Upper
+24.0,M,Oyo,Accounting,4.15,Second Class Upper
+19.0,M,Ogun,Accounting,3.66,Second Class Upper
+18.0,M,Kwara,Accounting,4.02,Second Class Upper
+18.0,M,Oyo,Accounting,3.82,Second Class Upper
+16.0,M,Lagos,Accounting,3.75,Second Class Upper
+17.0,F,Ogun,Accounting,4.44,Second Class Upper
+16.0,M,Kwara,Accounting,4.49,Second Class Upper
+16.0,M,Oyo,Accounting,3.54,Second Class Upper
+16.0,F,Lagos,Accounting,4.35,Second Class Upper
+20.0,M,Kwara,Accounting,4.1,Second Class Upper
+17.0,M,Ogun,Accounting,2.88,Second Class Lower
+22.0,F,Osun,Accounting,2.78,Second Class Lower
+18.0,M,Ogun,Accounting,3.17,Second Class Lower
+11.0,M,Ogun,Accounting,2.95,Second Class Lower
+18.0,F,Lagos,Accounting,3.18,Second Class Lower
+17.0,M,Ogun,Accounting,3.16,Second Class Lower
+18.0,M,Ogun,Accounting,2.63,Second Class Lower
+17.0,M,Ogun,Accounting,3.26,Second Class Lower
+18.0,F,Ogun,Accounting,3.47,Second Class Lower
+20.0,F,Lagos,Accounting,3.46,Second Class Lower
+16.0,F,Lagos,Accounting,3.11,Second Class Lower
+28.0,M,Ogun,Accounting,2.54,Second Class Lower
+20.0,F,Ogun,Accounting,2.5,Second Class Lower
+22.0,F,Ogun,Accounting,2.63,Second Class Lower
+17.0,F,Lagos,Accounting,3.43,Second Class Lower
+19.0,M,Lagos,Accounting,2.8,Second Class Lower
+18.0,M,Lagos,Accounting,2.86,Second Class Lower
+16.0,M,Ogun,Accounting,3.39,Second Class Lower
+26.0,M,Ogun,Accounting,1.81,Third Class
+20.0,M,Osun,Accounting,2.04,Third Class
+17.0,F,Ogun,Accounting,1.93,Third Class
+17.0,F,Kwara,Accounting,1.56,Third Class
+20.0,M,Oyo,Accounting,2.08,Third Class
+20.0,F,Ogun,Banking And Finance,4.34,Second Class Upper
+21.0,F,Ogun,Banking And Finance,2.65,Second Class Lower
+17.0,M,Osun,Banking And Finance,2.72,Second Class Lower
+23.0,M,Lagos,Banking And Finance,1.91,Third Class
+37.0,F,Osun,Banking And Finance,1.54,Third Class
+18.0,F,Osun,Business Administration,3.99,Second Class Upper
+19.0,M,Ogun,Business Administration,4.31,Second Class Upper
+23.0,M,Ogun,Business Administration,3.15,Second Class Lower
+18.0,F,Ogun,Business Administration,2.03,Third Class
+21.0,F,Osun,Business Administration,2.35,Third Class
+19.0,F,Oyo,Economics,3.65,Second Class Upper
+16.0,M,Ogun,Economics,4.06,Second Class Upper
+16.0,M,Ekiti,Economics,3.87,Second Class Upper
+19.0,M,Lagos,Economics,4.1,Second Class Upper
+19.0,M,Kwara,Economics,3.61,Second Class Upper
+18.0,M,Ogun,Economics,4.27,Second Class Upper
+16.0,M,Ogun,Economics,3.6,Second Class Upper
+17.0,M,Ogun,Economics,2.66,Second Class Lower
+19.0,F,Ondo,Economics,3.3,Second Class Lower
+17.0,F,Ogun,Economics,3.44,Second Class Lower
+20.0,M,Oyo,Economics,2.93,Second Class Lower
+23.0,M,Ogun,Economics,2.91,Second Class Lower
+19.0,F,Ogun,Economics,2.74,Second Class Lower
+19.0,M,Kwara,Economics,2.77,Second Class Lower
+18.0,M,Edo,Economics,3.11,Second Class Lower
+19.0,F,Osun,Economics,1.68,Third Class
+21.0,M,Ogun,Economics,1.62,Third Class
+19.0,F,Ogun,Political Science,2.95,Second Class Lower
+19.0,F,Osun,Political Science,2.66,Second Class Lower
+17.0,F,Lagos,Political Science,3.14,Second Class Lower
+19.0,F,Osun,Political Science,3.31,Second Class Lower
+21.0,F,Ogun,Political Science,3.27,Second Class Lower
+19.0,F,Oyo,Political Science,2.98,Second Class Lower
+20.0,M,Osun,Political Science,2.84,Second Class Lower
+17.0,F,Ogun,Political Science,2.93,Second Class Lower
+18.0,F,Kwara,Political Science,2.5,Second Class Lower
+17.0,M,Ogun,Political Science,3.21,Second Class Lower
+20.0,M,Osun,Political Science,2.83,Second Class Lower
+24.0,M,Lagos,Political Science,2.82,Second Class Lower
+16.0,F,Osun,Political Science,2.58,Second Class Lower
+16.0,F,Oyo,Political Science,1.94,Third Class
+19.0,F,Ogun,Political Science,2.08,Third Class
+17.0,M,Ogun,Political Science,1.89,Third Class
+16.0,F,Ogun,Political Science,2.36,Third Class
+21.0,M,Kwara,Political Science,2.17,Third Class
+16.0,M,Oyo,Computer Science,4.62,First Class
+17.0,F,Oyo,Computer Science,4.02,Second Class Upper
+18.0,M,Osun,Computer Science,4.4,Second Class Upper
+18.0,F,Osun,Computer Science,4.01,Second Class Upper
+18.0,M,Ogun,Computer Science,4.1,Second Class Upper
+17.0,F,Osun,Computer Science,3.56,Second Class Upper
+21.0,F,Kwara,Computer Science,3.98,Second Class Upper
+16.0,F,Osun,Computer Science,2.96,Second Class Lower
+20.0,F,Oyo,Computer Science,2.9,Second Class Lower
+21.0,M,Edo,Computer Science,2.92,Second Class Lower
+17.0,F,Ogun,Computer Science,3.08,Second Class Lower
+21.0,M,Oyo,Computer Science,3.03,Second Class Lower
+17.0,M,Ogun,Computer Science,1.98,Third Class
+20.0,F,Osun,Computer Science,1.66,Third Class
+18.0,M,Osun,Accounting,3.94,Second Class Upper
+17.0,F,Oyo,Accounting,4.1,Second Class Upper
+21.0,M,Kwara,Accounting,4.35,Second Class Upper
+17.0,M,Lagos,Accounting,4.46,Second Class Upper
+17.0,F,Oyo,Accounting,3.77,Second Class Upper
+17.0,M,Ogun,Accounting,2.91,Second Class Lower
+18.0,M,Lagos,Accounting,2.52,Second Class Lower
+16.0,M,Lagos,Accounting,2.53,Second Class Lower
+28.0,M,Oyo,Accounting,2.5,Second Class Lower
+20.0,F,Kwara,Accounting,3.22,Second Class Lower
+17.0,M,Ogun,Accounting,2.77,Second Class Lower
+20.0,F,Ogun,Accounting,3.03,Second Class Lower
+17.0,F,Lagos,Accounting,2.43,Third Class
+16.0,F,Osun,Accounting,2.55,Second Class Lower
+16.0,M,Osun,Accounting,2.47,Third Class
+23.0,F,Ogun,Accounting,1.53,Third Class
+20.0,M,Osun,Accounting,2.27,Third Class
+18.0,M,Ogun,Accounting,2.05,Third Class
+23.0,F,Oyo,Accounting,1.59,Third Class
+16.0,M,Osun,Banking And Finance,4.15,Second Class Upper
+16.0,F,Osun,Banking And Finance,4.11,Second Class Upper
+17.0,F,Ogun,Banking And Finance,3.22,Second Class Lower
+15.0,F,Osun,Banking And Finance,2.61,Second Class Lower
+21.0,M,Oyo,Banking And Finance,2.95,Second Class Lower
+19.0,M,Osun,Banking And Finance,3.48,Second Class Lower
+22.0,F,Ogun,Banking And Finance,2.64,Second Class Lower
+21.0,F,Lagos,Banking And Finance,2.85,Second Class Lower
+21.0,M,Osun,Banking And Finance,2.48,Third Class
+17.0,M,Ogun,Banking And Finance,2.32,Third Class
+19.0,F,Osun,Banking And Finance,2.1,Third Class
+18.0,M,Lagos,Business Administration,3.98,Second Class Upper
+16.0,M,Oyo,Business Administration,3.95,Second Class Upper
+18.0,M,Osun,Business Administration,3.93,Second Class Upper
+19.0,M,Ogun,Business Administration,2.54,Second Class Lower
+19.0,M,Ogun,Business Administration,3.18,Second Class Lower
+16.0,F,Osun,Business Administration,3.0,Second Class Lower
+19.0,M,Ogun,Business Administration,2.45,Third Class
+22.0,F,Osun,Business Administration,2.42,Third Class
+16.0,M,Lagos,Business Administration,2.94,Second Class Lower
+21.0,M,Ogun,Business Administration,2.86,Second Class Lower
+21.0,F,Kwara,Business Administration,2.51,Second Class Lower
+17.0,F,Ogun,Business Administration,2.98,Second Class Lower
+18.0,M,Kwara,Business Administration,3.22,Second Class Lower
+18.0,M,Kwara,Business Administration,2.55,Second Class Lower
+21.0,F,Lagos,Business Administration,3.39,Second Class Lower
+16.0,F,Ondo,Business Administration,3.19,Second Class Lower
+19.0,M,Ogun,Business Administration,2.16,Third Class
+24.0,F,Osun,Business Administration,1.92,Third Class
+20.0,M,Oyo,Business Administration,2.14,Third Class
+19.0,M,Oyo,Business Administration,2.4,Third Class
+16.0,F,Ogun,Economics,4.51,First Class
+22.0,M,Osun,Economics,3.65,Second Class Upper
+16.0,M,Oyo,Economics,3.94,Second Class Upper
+16.0,F,Ogun,Economics,3.53,Second Class Upper
+16.0,M,Osun,Economics,3.81,Second Class Upper
+17.0,M,Kwara,Economics,3.39,Second Class Lower
+17.0,M,Oyo,Economics,3.72,Second Class Upper
+17.0,F,Lagos,Economics,2.98,Second Class Lower
+20.0,M,Osun,Economics,3.4,Second Class Lower
+17.0,M,Osun,Economics,3.01,Second Class Lower
+17.0,F,Osun,Economics,2.27,Third Class
+22.0,F,Ogun,Economics,1.88,Third Class
+18.0,M,Oyo,Economics,2.11,Third Class
+17.0,M,Plateau,Economics,2.11,Third Class
+18.0,M,Osun,Political Science,2.58,Second Class Lower
+16.0,F,Kwara,Microbiology,3.81,Second Class Upper
+21.0,M,Osun,Microbiology,1.8,Third Class
+16.0,F,Ogun,Computer Science,4.51,First Class
+19.0,M,Ogun,Computer Science,4.69,First Class
+16.0,F,Ogun,Computer Science,4.33,Second Class Upper
+18.0,M,Kwara,Computer Science,4.14,Second Class Upper
+18.0,F,Ogun,Computer Science,4.08,Second Class Upper
+18.0,M,Oyo,Computer Science,3.62,Second Class Upper
+16.0,M,Osun,Computer Science,3.7,Second Class Upper
+15.0,M,Oyo,Computer Science,3.6,Second Class Upper
+16.0,F,Osun,Computer Science,2.8,Second Class Lower
+19.0,M,Ogun,Computer Science,3.18,Second Class Lower
+21.0,F,Osun,Computer Science,3.03,Second Class Lower
+21.0,F,Osun,Computer Science,3.27,Second Class Lower
+26.0,F,Kwara,Computer Science,2.89,Second Class Lower
+24.0,F,Osun,Computer Science,2.76,Second Class Lower
+17.0,M,Ogun,Computer Science,3.22,Second Class Lower
+19.0,M,Osun,Computer Science,2.92,Second Class Lower
+16.0,F,Lagos,Computer Science,3.34,Second Class Lower
+21.0,M,Ogun,Computer Science,1.73,Third Class
+18.0,M,Katsina,Computer Science,2.11,Third Class
+17.0,M,Kwara,Computer Science,2.38,Third Class
+18.0,M,Oyo,Computer Science,2.33,Third Class
+16.0,F,Kwara,Computer Science,2.4,Third Class
+19.0,M,Oyo,Computer Science,2.18,Third Class
+16.0,M,Osun,Accounting,4.6,First Class
+17.0,M,Osun,Accounting,4.61,First Class
+16.0,F,Ogun,Accounting,4.74,First Class
+19.0,F,Lagos,Accounting,3.91,Second Class Upper
+21.0,F,Ogun,Accounting,4.08,Second Class Upper
+16.0,F,Lagos,Accounting,3.89,Second Class Upper
+16.0,M,Ogun,Accounting,3.94,Second Class Upper
+17.0,M,Lagos,Accounting,4.14,Second Class Upper
+16.0,F,Ogun,Accounting,3.92,Second Class Upper
+18.0,F,Osun,Accounting,3.72,Second Class Upper
+17.0,M,Lagos,Accounting,3.66,Second Class Upper
+19.0,M,Ogun,Accounting,4.27,Second Class Upper
+19.0,M,Lagos,Accounting,4.08,Second Class Upper
+17.0,M,Lagos,Accounting,4.05,Second Class Upper
+15.0,F,Ogun,Accounting,3.76,Second Class Upper
+18.0,F,Ondo,Accounting,3.67,Second Class Upper
+17.0,M,Kwara,Accounting,4.32,Second Class Upper
+16.0,F,Osun,Accounting,3.67,Second Class Upper
+17.0,M,Ogun,Accounting,4.27,Second Class Upper
+20.0,M,Kwara,Accounting,3.97,Second Class Upper
+18.0,M,Ogun,Accounting,3.82,Second Class Upper
+24.0,M,Lagos,Accounting,4.22,Second Class Upper
+23.0,F,Ogun,Accounting,3.51,Second Class Upper
+16.0,F,Ogun,Accounting,3.06,Second Class Lower
+17.0,F,Ogun,Accounting,3.3,Second Class Lower
+16.0,M,Ogun,Accounting,3.45,Second Class Lower
+17.0,M,Osun,Accounting,2.93,Second Class Lower
+17.0,M,Ogun,Accounting,3.35,Second Class Lower
+17.0,M,Kwara,Accounting,3.21,Second Class Lower
+16.0,M,Oyo,Accounting,2.75,Second Class Lower
+21.0,M,Kwara,Accounting,2.38,Third Class
+21.0,F,Kwara,Banking And Finance,3.55,Second Class Upper
+19.0,F,Ogun,Banking And Finance,3.4,Second Class Lower
+17.0,F,Ogun,Banking And Finance,3.26,Second Class Lower
+20.0,M,Ogun,Banking And Finance,2.45,Third Class
+22.0,M,Kwara,Economics,2.09,Third Class
+20.0,F,Osun,Economics,1.8,Third Class
+20.0,F,Osun,Economics,1.81,Third Class
+16.0,M,Oyo,Political Science,3.47,Second Class Lower
+21.0,M,Lagos,Political Science,1.78,Third Class
+17.0,M,Ogun,Computer Science,4.5,First Class
+30.0,M,Kwara,Computer Science,4.84,First Class
+18.0,M,Kogi,Computer Science,4.23,Second Class Upper
+18.0,M,Ogun,Computer Science,3.72,Second Class Upper
+19.0,M,Osun,Computer Science,3.53,Second Class Upper
+19.0,M,Osun,Computer Science,3.53,Second Class Upper
+22.0,F,Ogun,Computer Science,3.73,Second Class Upper
+17.0,F,Oyo,Computer Science,3.97,Second Class Upper
+19.0,F,Ogun,Computer Science,3.74,Second Class Upper
+19.0,F,Ogun,Computer Science,3.74,Second Class Upper
+19.0,M,Osun,Computer Science,2.65,Second Class Lower
+19.0,M,Osun,Computer Science,2.65,Second Class Lower
+17.0,M,Ogun,Computer Science,3.41,Second Class Lower
+17.0,M,Ogun,Computer Science,3.41,Second Class Lower
+17.0,M,Ogun,Computer Science,2.66,Second Class Lower
+17.0,M,Ogun,Computer Science,2.66,Second Class Lower
+17.0,M,Ogun,Computer Science,2.72,Second Class Lower
+10.0,M,Osun,Computer Science,3.18,Second Class Lower
+10.0,M,Osun,Computer Science,3.18,Second Class Lower
+15.0,M,Osun,Computer Science,3.33,Second Class Lower
+16.0,M,Lagos,Computer Science,2.84,Second Class Lower
+16.0,M,Lagos,Computer Science,2.84,Second Class Lower
+20.0,M,Ogun,Computer Science,3.07,Second Class Lower
+20.0,M,Ogun,Computer Science,3.07,Second Class Lower
+16.0,M,Ogun,Computer Science,3.33,Second Class Lower
+17.0,M,Osun,Computer Science,2.52,Second Class Lower
+20.0,M,Oyo,Computer Science,2.4,Third Class
+20.0,M,Oyo,Computer Science,2.4,Third Class
+22.0,M,Ogun,Computer Science,2.79,Second Class Lower
+22.0,M,Ogun,Computer Science,2.79,Second Class Lower
+17.0,M,Oyo,Computer Science,2.4,Third Class
+17.0,M,Kwara,Computer Science,2.75,Second Class Lower
+12.0,M,Kwara,Computer Science,1.67,Third Class
+20.0,F,Ogun,Computer Science,1.68,Third Class
+21.0,M,Lagos,Computer Science,1.64,Third Class
+18.0,F,Osun,Microbiology,4.58,First Class
+20.0,F,Osun,Microbiology,3.79,Second Class Upper
+17.0,F,Osun,Microbiology,3.21,Second Class Lower
+15.0,F,Osun,Microbiology,2.84,Second Class Lower
+18.0,M,Lagos,Microbiology,3.11,Second Class Lower
+16.0,F,Oyo,Microbiology,3.09,Second Class Lower
+18.0,F,Kwara,Accounting,4.13,Second Class Upper
+31.0,F,Osun,Accounting,4.41,Second Class Upper
+20.0,M,Ogun,Accounting,3.95,Second Class Upper
+15.0,F,Lagos,Accounting,3.88,Second Class Upper
+18.0,F,Oyo,Accounting,4.33,Second Class Upper
+37.0,F,Osun,Accounting,3.69,Second Class Upper
+27.0,M,Kogi,Accounting,4.19,Second Class Upper
+20.0,F,Lagos,Accounting,3.85,Second Class Upper
+21.0,M,Osun,Accounting,2.58,Second Class Lower
+18.0,F,Ondo,Accounting,2.69,Second Class Lower
+23.0,F,Kwara,Accounting,3.23,Second Class Lower
+18.0,M,Oyo,Accounting,1.71,Third Class
+20.0,M,Oyo,Accounting,1.6,Third Class
+20.0,M,Oyo,Accounting,2.49,Third Class
+23.0,M,Lagos,Banking And Finance,4.94,First Class
+21.0,M,Oyo,Banking And Finance,3.96,Second Class Upper
+21.0,M,Lagos,Banking And Finance,4.24,Second Class Upper
+19.0,F,Ogun,Banking And Finance,4.14,Second Class Upper
+19.0,M,Oyo,Banking And Finance,4.37,Second Class Upper
+19.0,M,Oyo,Banking And Finance,4.19,Second Class Upper
+17.0,F,Ogun,Banking And Finance,3.02,Second Class Lower
+22.0,M,Ogun,Business Administration,2.92,Second Class Lower
+25.0,M,Ogun,Business Administration,1.74,Third Class
+25.0,M,Oyo,Economics,3.16,Second Class Lower
+18.0,F,Kogi,Microbiology,4.78,First Class
+17.0,F,Ogun,Microbiology,4.63,First Class
+17.0,F,Oyo,Microbiology,4.68,First Class
+20.0,F,Oyo,Microbiology,4.12,Second Class Upper
+21.0,F,Oyo,Microbiology,4.12,Second Class Upper
+16.0,F,Oyo,Microbiology,3.71,Second Class Upper
+18.0,M,Ogun,Microbiology,4.1,Second Class Upper
+18.0,F,Ogun,Microbiology,4.37,Second Class Upper
+22.0,F,Kwara,Microbiology,3.36,Second Class Lower
+17.0,F,Osun,Microbiology,3.15,Second Class Lower
+26.0,M,Kwara,Microbiology,2.57,Second Class Lower
+22.0,F,Kwara,Microbiology,2.92,Second Class Lower
+18.0,F,Osun,Microbiology,2.59,Second Class Lower
+15.0,M,Ekiti,Microbiology,2.55,Second Class Lower
+17.0,F,Ondo,Microbiology,1.75,Third Class
+22.0,F,Ogun,Microbiology,1.95,Third Class
+19.0,F,Kwara,Computer Science,4.88,First Class
+17.0,F,Ogun,Computer Science,4.81,First Class
+16.0,M,Kwara,Computer Science,4.64,First Class
+23.0,F,Kwara,Computer Science,4.19,Second Class Upper
+19.0,M,Oyo,Computer Science,4.0,Second Class Upper
+23.0,M,Kebbi,Computer Science,4.0,Second Class Upper
+25.0,M,Osun,Computer Science,3.76,Second Class Upper
+18.0,F,Osun,Computer Science,3.94,Second Class Upper
+17.0,M,Osun,Computer Science,3.84,Second Class Upper
+15.0,F,Kwara,Computer Science,4.22,Second Class Upper
+19.0,F,Oyo,Computer Science,3.98,Second Class Upper
+18.0,M,Osun,Computer Science,2.94,Second Class Lower
+17.0,F,Kwara,Computer Science,2.97,Second Class Lower
+21.0,F,Lagos,Computer Science,2.98,Second Class Lower
+16.0,M,Osun,Computer Science,3.18,Second Class Lower
+17.0,F,Oyo,Computer Science,3.21,Second Class Lower
+21.0,F,Osun,Computer Science,3.29,Second Class Lower
+17.0,M,Osun,Computer Science,2.9,Second Class Lower
+18.0,F,Ogun,Computer Science,3.29,Second Class Lower
+21.0,M,Osun,Computer Science,3.46,Second Class Lower
+16.0,M,Ogun,Computer Science,3.48,Second Class Lower
+19.0,M,Osun,Computer Science,3.21,Second Class Lower
+20.0,F,Osun,Computer Science,2.56,Second Class Lower
+19.0,M,Osun,Computer Science,3.34,Second Class Lower
+21.0,M,Osun,Computer Science,3.33,Second Class Lower
+16.0,M,Oyo,Computer Science,2.52,Second Class Lower
+21.0,M,Osun,Computer Science,2.82,Second Class Lower
+22.0,M,Yobe,Computer Science,2.82,Second Class Lower
+19.0,M,Oyo,Computer Science,3.23,Second Class Lower
+20.0,M,Osun,Computer Science,3.1,Second Class Lower
+19.0,M,Osun,Computer Science,2.78,Second Class Lower
+21.0,F,Osun,Computer Science,2.68,Second Class Lower
+21.0,M,Gombe,Computer Science,2.67,Second Class Lower
+21.0,M,Niger,Computer Science,1.59,Third Class
+20.0,M,Osun,Computer Science,2.28,Third Class
+20.0,M,Kwara,Computer Science,2.43,Third Class
+19.0,M,Osun,Computer Science,1.72,Third Class
+19.0,M,Osun,Computer Science,2.24,Third Class
+17.0,M,Ogun,Computer Science,2.44,Third Class
+20.0,M,Lagos,Computer Science,1.69,Third Class
+20.0,F,Ogun,Accounting,4.79,First Class
+19.0,F,Ogun,Accounting,4.72,First Class
+17.0,F,Kwara,Accounting,4.99,First Class
+19.0,F,Oyo,Accounting,4.93,First Class
+19.0,M,Oyo,Accounting,3.52,Second Class Upper
+42.0,M,Osun,Accounting,3.7,Second Class Upper
+18.0,M,Oyo,Accounting,4.34,Second Class Upper
+19.0,F,Kwara,Accounting,4.07,Second Class Upper
+15.0,F,Oyo,Accounting,4.02,Second Class Upper
+15.0,F,Osun,Accounting,4.3,Second Class Upper
+20.0,F,Ogun,Accounting,4.26,Second Class Upper
+15.0,F,Osun,Accounting,4.45,Second Class Upper
+20.0,F,Ogun,Accounting,3.82,Second Class Upper
+17.0,F,Oyo,Accounting,3.55,Second Class Upper
+14.0,F,Osun,Accounting,4.19,Second Class Upper
+16.0,F,Lagos,Accounting,3.55,Second Class Upper
+18.0,M,Kwara,Accounting,4.06,Second Class Upper
+16.0,M,Ogun,Accounting,4.35,Second Class Upper
+25.0,M,Kogi,Accounting,3.89,Second Class Upper
+17.0,M,Ogun,Accounting,4.1,Second Class Upper
+17.0,F,Ogun,Accounting,3.67,Second Class Upper
+18.0,M,Kwara,Accounting,3.66,Second Class Upper
+17.0,F,Ogun,Accounting,4.1,Second Class Upper
+16.0,M,Ogun,Accounting,4.36,Second Class Upper
+19.0,M,Ogun,Accounting,4.49,Second Class Upper
+20.0,M,Kwara,Accounting,2.53,Second Class Lower
+19.0,M,Ogun,Accounting,3.41,Second Class Lower
+17.0,F,Benin,Accounting,3.01,Second Class Lower
+16.0,F,Ogun,Accounting,2.85,Second Class Lower
+23.0,F,Osun,Accounting,2.89,Second Class Lower
+21.0,F,Oyo,Accounting,3.07,Second Class Lower
+15.0,F,Osun,Accounting,2.84,Second Class Lower
+19.0,M,Ogun,Accounting,2.64,Second Class Lower
+42.0,F,Osun,Accounting,3.36,Second Class Lower
+30.0,M,Osun,Accounting,3.2,Second Class Lower
+17.0,M,Ogun,Accounting,3.1,Second Class Lower
+17.0,M,Ekiti,Accounting,3.22,Second Class Lower
+28.0,F,Osun,Accounting,3.48,Second Class Lower
+16.0,M,Lagos,Accounting,2.67,Second Class Lower
+20.0,M,Kwara,Accounting,3.32,Second Class Lower
+31.0,M,Oyo,Accounting,3.31,Second Class Lower
+27.0,M,Osun,Accounting,2.84,Second Class Lower
+18.0,M,Lagos,Accounting,3.05,Second Class Lower
+23.0,F,Oyo,Accounting,2.95,Second Class Lower
+18.0,F,Osun,Accounting,2.69,Second Class Lower
+19.0,M,Osun,Accounting,2.93,Second Class Lower
+20.0,M,Ogun,Accounting,2.65,Second Class Lower
+29.0,M,Osun,Accounting,3.42,Second Class Lower
+15.0,F,Ogun,Accounting,2.69,Second Class Lower
+19.0,M,Lagos,Accounting,3.13,Second Class Lower
+19.0,M,Osun,Accounting,3.06,Second Class Lower
+19.0,M,Kaduna,Accounting,3.46,Second Class Lower
+21.0,M,Kwara,Accounting,2.29,Third Class
+22.0,M,Kwara,Accounting,1.86,Third Class
+17.0,M,Ogun,Accounting,1.87,Third Class
+18.0,F,Kwara,Banking And Finance,3.55,Second Class Upper
+16.0,F,Ogun,Banking And Finance,3.55,Second Class Upper
+21.0,F,Oyo,Banking And Finance,3.81,Second Class Upper
+18.0,M,Osun,Banking And Finance,3.44,Second Class Lower
+20.0,F,Osun,Banking And Finance,2.55,Second Class Lower
+20.0,M,Lagos,Banking And Finance,2.67,Second Class Lower
+16.0,F,Ogun,Banking And Finance,3.13,Second Class Lower
+22.0,F,Lagos,Banking And Finance,2.86,Second Class Lower
+19.0,M,Lagos,Banking And Finance,2.68,Second Class Lower
+17.0,F,Ogun,Business Administration,4.44,Second Class Upper
+20.0,F,Osun,Business Administration,3.54,Second Class Upper
+14.0,M,Kwara,Business Administration,4.09,Second Class Upper
+22.0,F,Oyo,Business Administration,3.92,Second Class Upper
+22.0,M,Yobe,Business Administration,3.84,Second Class Upper
+20.0,F,Ogun,Business Administration,3.69,Second Class Upper
+18.0,F,Oyo,Business Administration,3.66,Second Class Upper
+17.0,F,Ogun,Business Administration,3.9,Second Class Upper
+18.0,M,Lagos,Business Administration,4.24,Second Class Upper
+19.0,F,Osun,Business Administration,3.96,Second Class Upper
+22.0,M,Ogun,Business Administration,4.27,Second Class Upper
+16.0,F,Kwara,Business Administration,4.37,Second Class Upper
+15.0,F,Oyo,Business Administration,3.67,Second Class Upper
+23.0,F,Kwara,Business Administration,4.37,Second Class Upper
+21.0,F,Osun,Business Administration,3.08,Second Class Lower
+19.0,F,Osun,Business Administration,2.92,Second Class Lower
+25.0,F,Ogun,Business Administration,3.01,Second Class Lower
+20.0,F,Ondo,Business Administration,3.38,Second Class Lower
+27.0,M,Yobe,Business Administration,2.89,Second Class Lower
+16.0,M,Ogun,Business Administration,2.59,Second Class Lower
+20.0,F,Osun,Business Administration,3.45,Second Class Lower
+16.0,F,Ondo,Business Administration,2.62,Second Class Lower
+19.0,M,Lagos,Business Administration,2.61,Second Class Lower
+19.0,M,Oyo,Business Administration,3.21,Second Class Lower
+17.0,M,Ogun,Business Administration,2.81,Second Class Lower
+18.0,F,Ogun,Business Administration,2.79,Second Class Lower
+19.0,M,Lagos,Business Administration,3.14,Second Class Lower
+19.0,F,Lagos,Business Administration,3.38,Second Class Lower
+25.0,M,Ogun,Business Administration,2.84,Second Class Lower
+17.0,F,Kebbi,Business Administration,3.4,Second Class Lower
+22.0,M,Kwara,Business Administration,3.11,Second Class Lower
+20.0,F,Kwara,Business Administration,2.1,Third Class
+18.0,F,Osun,Business Administration,2.03,Third Class
+18.0,F,Oyo,Economics,4.51,First Class
+17.0,M,Ogun,Economics,4.58,First Class
+16.0,F,Ogun,Economics,4.17,Second Class Upper
+18.0,M,Kwara,Economics,4.19,Second Class Upper
+18.0,M,Ogun,Economics,3.6,Second Class Upper
+18.0,F,Oyo,Economics,4.13,Second Class Upper
+17.0,F,Osun,Economics,3.97,Second Class Upper
+18.0,F,Osun,Economics,3.07,Second Class Lower
+19.0,M,Yobe,Economics,2.9,Second Class Lower
+18.0,F,Ogun,Economics,2.72,Second Class Lower
+19.0,M,Yobe,Economics,2.85,Second Class Lower
+17.0,M,Kwara,Economics,3.46,Second Class Lower
+16.0,F,Osun,Economics,2.69,Second Class Lower
+17.0,F,Kogi,Economics,3.35,Second Class Lower
+17.0,F,Oyo,Mass Communication,4.77,First Class
+22.0,F,Osun,Mass Communication,4.54,First Class
+18.0,F,Ogun,Mass Communication,4.91,First Class
+20.0,M,Oyo,Mass Communication,4.51,First Class
+19.0,F,Ogun,Mass Communication,4.92,First Class
+16.0,M,Oyo,Mass Communication,3.84,Second Class Upper
+17.0,F,Oyo,Mass Communication,4.41,Second Class Upper
+19.0,F,Ogun,Mass Communication,4.22,Second Class Upper
+22.0,M,Ogun,Mass Communication,3.85,Second Class Upper
+17.0,F,Ogun,Mass Communication,4.12,Second Class Upper
+20.0,M,Osun,Mass Communication,4.48,Second Class Upper
+18.0,M,Kwara,Mass Communication,3.67,Second Class Upper
+16.0,F,Oyo,Mass Communication,3.7,Second Class Upper
+16.0,M,Ogun,Mass Communication,3.79,Second Class Upper
+17.0,M,Ogun,Mass Communication,4.31,Second Class Upper
+16.0,F,Ondo,Mass Communication,3.74,Second Class Upper
+17.0,M,Osun,Mass Communication,3.74,Second Class Upper
+19.0,F,Ogun,Mass Communication,4.11,Second Class Upper
+19.0,F,Osun,Mass Communication,4.08,Second Class Upper
+18.0,F,Kwara,Mass Communication,3.91,Second Class Upper
+17.0,M,Kwara,Mass Communication,3.05,Second Class Lower
+19.0,M,Lagos,Mass Communication,2.53,Second Class Lower
+23.0,F,Kwara,Mass Communication,2.51,Second Class Lower
+23.0,M,Osun,Mass Communication,2.53,Second Class Lower
+17.0,M,Osun,Mass Communication,2.55,Second Class Lower
+16.0,F,Kwara,Mass Communication,3.26,Second Class Lower
+20.0,M,Oyo,Mass Communication,3.47,Second Class Lower
+20.0,F,Osun,Mass Communication,2.62,Second Class Lower
+19.0,M,Oyo,Mass Communication,2.88,Second Class Lower
+22.0,M,Yobe,Mass Communication,2.51,Second Class Lower
+17.0,F,Kogi,Mass Communication,2.93,Second Class Lower
+16.0,F,Osun,Mass Communication,3.16,Second Class Lower
+17.0,M,Lagos,Mass Communication,3.12,Second Class Lower
+17.0,F,Lagos,Mass Communication,2.39,Third Class
+19.0,M,Osun,Political Science,4.05,Second Class Upper
+20.0,F,Kwara,Political Science,3.55,Second Class Upper
+20.0,M,Osun,Political Science,3.87,Second Class Upper
+17.0,F,Ogun,Political Science,3.95,Second Class Upper
+18.0,F,Kwara,Political Science,2.83,Second Class Lower
+17.0,M,Ogun,Political Science,2.53,Second Class Lower
+39.0,F,Osun,Political Science,3.12,Second Class Lower
+19.0,M,Edo,Political Science,2.98,Second Class Lower
+47.0,F,Osun,Political Science,3.2,Second Class Lower
+21.0,F,Oyo,Political Science,2.86,Second Class Lower
+18.0,F,Ogun,Political Science,2.57,Second Class Lower
+20.0,F,Osun,Political Science,2.76,Second Class Lower
+16.0,F,Osun,Political Science,2.67,Second Class Lower
+21.0,F,Osun,Political Science,2.96,Second Class Lower
+20.0,M,Oyo,Political Science,2.65,Second Class Lower
+17.0,M,Yobe,Political Science,2.58,Second Class Lower
+24.0,M,Ogun,Sociology,4.02,Second Class Upper
+19.0,M,Osun,Sociology,2.64,Second Class Lower
+21.0,F,Ondo,Sociology,2.6,Second Class Lower
+21.0,F,Ogun,Sociology,2.62,Second Class Lower
+16.0,F,Osun,Microbiology,4.85,First Class
+15.0,F,Ogun,Microbiology,4.9,First Class
+19.0,F,Kwara,Microbiology,4.3,Second Class Upper
+17.0,F,Osun,Microbiology,4.07,Second Class Upper
+26.0,F,Oyo,Microbiology,4.13,Second Class Upper
+21.0,M,Yobe,Microbiology,4.25,Second Class Upper
+19.0,F,Osun,Microbiology,3.92,Second Class Upper
+21.0,F,Ogun,Microbiology,3.0,Second Class Lower
+23.0,M,Yobe,Microbiology,3.21,Second Class Lower
+20.0,F,Osun,Microbiology,3.13,Second Class Lower
+17.0,F,Lagos,Microbiology,3.1,Second Class Lower
+18.0,F,Ogun,Microbiology,3.14,Second Class Lower
+21.0,F,Yobe,Microbiology,3.03,Second Class Lower
+20.0,F,Yobe,Microbiology,2.71,Second Class Lower
+21.0,M,Yobe,Microbiology,2.8,Second Class Lower
+19.0,M,Yobe,Microbiology,3.18,Second Class Lower
+20.0,F,Osun,Microbiology,2.91,Second Class Lower
+19.0,F,Ogun,Microbiology,3.35,Second Class Lower
+17.0,F,Ogun,Microbiology,2.87,Second Class Lower
+19.0,F,Ogun,Microbiology,3.16,Second Class Lower
+24.0,F,Yobe,Microbiology,2.61,Second Class Lower
+18.0,M,Lagos,Microbiology,2.8,Second Class Lower
+18.0,M,Ogun,Biochemistry And Nutrition,4.34,Second Class Upper
+16.0,M,Oyo,Computer Science,4.59,First Class
+21.0,M,Osun,Computer Science,4.12,Second Class Upper
+18.0,F,Lagos,Computer Science,3.53,Second Class Upper
+17.0,F,Oyo,Computer Science,4.1,Second Class Upper
+18.0,M,Kwara,Computer Science,3.95,Second Class Upper
+19.0,M,Oyo,Computer Science,4.39,Second Class Upper
+16.0,F,Oyo,Computer Science,4.32,Second Class Upper
+18.0,F,Osun,Computer Science,4.27,Second Class Upper
+19.0,M,Osun,Computer Science,3.84,Second Class Upper
+20.0,M,Ogun,Computer Science,4.16,Second Class Upper
+25.0,M,Ogun,Computer Science,3.65,Second Class Upper
+19.0,F,Ogun,Computer Science,3.98,Second Class Upper
+20.0,M,Kwara,Computer Science,3.89,Second Class Upper
+21.0,M,Lagos,Computer Science,3.96,Second Class Upper
+17.0,M,Oyo,Computer Science,2.77,Second Class Lower
+22.0,F,Osun,Computer Science,2.71,Second Class Lower
+17.0,M,Oyo,Computer Science,3.01,Second Class Lower
+17.0,M,Lagos,Computer Science,3.15,Second Class Lower
+25.0,F,Oyo,Computer Science,3.06,Second Class Lower
+19.0,M,Kano,Computer Science,3.44,Second Class Lower
+20.0,M,Osun,Computer Science,3.05,Second Class Lower
+20.0,F,Oyo,Computer Science,2.65,Second Class Lower
+15.0,M,Kogi,Computer Science,3.14,Second Class Lower
+19.0,M,Yobe,Computer Science,2.81,Second Class Lower
+17.0,F,Oyo,Computer Science,3.43,Second Class Lower
+21.0,M,Yobe,Computer Science,2.63,Second Class Lower
+22.0,M,Oyo,Computer Science,2.95,Second Class Lower
+19.0,M,Oyo,Computer Science,3.17,Second Class Lower
+19.0,M,Osun,Computer Science,3.46,Second Class Lower
+19.0,M,Lagos,Computer Science,3.02,Second Class Lower
+25.0,M,Osun,Computer Science,2.88,Second Class Lower
+19.0,M,Yobe,Computer Science,3.27,Second Class Lower
+22.0,F,Kogi,Computer Science,3.28,Second Class Lower
+22.0,F,Ogun,Computer Science,3.4,Second Class Lower
+20.0,M,Oyo,Computer Science,3.21,Second Class Lower
+18.0,M,Ogun,Computer Science,1.63,Third Class
+17.0,M,Oyo,Computer Science,2.48,Third Class
+18.0,F,Oyo,Accounting,4.97,First Class
+18.0,F,Ogun,Accounting,4.72,First Class
+18.0,F,Kwara,Accounting,4.83,First Class
+18.0,F,Ogun,Accounting,4.33,Second Class Upper
+15.0,F,Osun,Accounting,4.41,Second Class Upper
+19.0,M,Kwara,Accounting,4.22,Second Class Upper
+16.0,F,Oyo,Accounting,3.59,Second Class Upper
+17.0,M,Osun,Accounting,3.57,Second Class Upper
+16.0,F,Osun,Accounting,3.86,Second Class Upper
+17.0,F,Osun,Accounting,3.95,Second Class Upper
+17.0,F,Osun,Accounting,3.81,Second Class Upper
+17.0,F,Lagos,Accounting,4.24,Second Class Upper
+36.0,F,Osun,Accounting,4.26,Second Class Upper
+19.0,M,Ogun,Accounting,3.9,Second Class Upper
+32.0,M,Osun,Accounting,4.19,Second Class Upper
+19.0,F,Oyo,Accounting,3.69,Second Class Upper
+16.0,F,Kwara,Accounting,4.44,Second Class Upper
+31.0,M,Osun,Accounting,3.74,Second Class Upper
+19.0,F,Lagos,Accounting,3.65,Second Class Upper
+16.0,F,Oyo,Accounting,3.88,Second Class Upper
+17.0,F,Ogun,Accounting,4.35,Second Class Upper
+42.0,M,Oyo,Accounting,4.09,Second Class Upper
+16.0,F,Oyo,Accounting,4.18,Second Class Upper
+16.0,F,Osun,Accounting,4.31,Second Class Upper
+19.0,F,Lagos,Accounting,3.88,Second Class Upper
+16.0,F,Kwara,Accounting,4.45,Second Class Upper
+19.0,F,Kwara,Accounting,4.48,Second Class Upper
+17.0,F,Ogun,Accounting,3.03,Second Class Lower
+19.0,F,Kwara,Accounting,3.24,Second Class Lower
+16.0,F,Osun,Accounting,3.35,Second Class Lower
+18.0,F,Osun,Accounting,3.09,Second Class Lower
+18.0,M,Ogun,Accounting,2.63,Second Class Lower
+24.0,M,Oyo,Accounting,3.15,Second Class Lower
+25.0,F,Osun,Accounting,2.95,Second Class Lower
+17.0,F,Kwara,Accounting,3.35,Second Class Lower
+21.0,M,Osun,Accounting,2.71,Second Class Lower
+18.0,M,Lagos,Accounting,2.51,Second Class Lower
+16.0,F,Kwara,Accounting,2.68,Second Class Lower
+16.0,F,Kwara,Accounting,2.67,Second Class Lower
+17.0,F,Osun,Accounting,2.88,Second Class Lower
+18.0,F,Ogun,Accounting,2.71,Second Class Lower
+23.0,F,Ogun,Accounting,2.83,Second Class Lower
+45.0,M,Oyo,Accounting,3.08,Second Class Lower
+21.0,M,Kwara,Accounting,2.65,Second Class Lower
+16.0,M,Osun,Accounting,2.98,Second Class Lower
+19.0,M,Oyo,Accounting,2.85,Second Class Lower
+31.0,M,Osun,Accounting,2.5,Second Class Lower
+17.0,M,Lagos,Accounting,3.17,Second Class Lower
+18.0,M,Osun,Accounting,3.0,Second Class Lower
+18.0,M,Oyo,Accounting,3.27,Second Class Lower
+19.0,M,Edo,Accounting,3.37,Second Class Lower
+16.0,M,Lagos,Accounting,2.55,Second Class Lower
+18.0,F,Lagos,Accounting,2.21,Third Class
+32.0,M,Oyo,Banking And Finance,4.73,First Class
+39.0,M,Osun,Banking And Finance,4.37,Second Class Upper
+21.0,M,Oyo,Banking And Finance,3.61,Second Class Upper
+23.0,F,Lagos,Banking And Finance,3.33,Second Class Lower
+24.0,F,Osun,Banking And Finance,2.93,Second Class Lower
+19.0,F,Kwara,Banking And Finance,2.59,Second Class Lower
+19.0,M,Ogun,Banking And Finance,2.96,Second Class Lower
+29.0,F,Osun,Business Administration,4.37,Second Class Upper
+41.0,M,Osun,Business Administration,3.57,Second Class Upper
+21.0,M,Kwara,Business Administration,2.87,Second Class Lower
+20.0,M,Lagos,Business Administration,2.58,Second Class Lower
+27.0,M,Ogun,Business Administration,2.51,Second Class Lower
+33.0,M,Kwara,Business Administration,3.32,Second Class Lower
+36.0,M,Osun,Business Administration,3.05,Second Class Lower
+19.0,M,Kwara,Business Administration,3.06,Second Class Lower
+25.0,F,Oyo,Business Administration,3.39,Second Class Lower
+31.0,F,Kwara,Business Administration,2.58,Second Class Lower
+29.0,F,Kwara,Business Administration,3.43,Second Class Lower
+22.0,M,Kogi,Business Administration,2.25,Third Class
+18.0,F,Edo,Economics,4.34,Second Class Upper
+21.0,M,Ogun,Economics,3.31,Second Class Lower
+26.0,F,Osun,Mass Communication,3.89,Second Class Upper
+19.0,M,Ogun,Mass Communication,3.52,Second Class Upper
+22.0,F,Oyo,Mass Communication,4.49,Second Class Upper
+21.0,F,Lagos,Mass Communication,4.13,Second Class Upper
+35.0,F,Osun,Mass Communication,4.2,Second Class Upper
+23.0,F,Osun,Mass Communication,3.19,Second Class Lower
+16.0,F,Osun,Mass Communication,2.8,Second Class Lower
+27.0,M,Ondo,Mass Communication,3.15,Second Class Lower
+17.0,F,Oyo,Mass Communication,2.95,Second Class Lower
+18.0,M,Lagos,Mass Communication,1.72,Third Class
+21.0,M,Ondo,Mass Communication,1.99,Third Class
+23.0,F,Kano,Political Science,2.96,Second Class Lower
+32.0,F,Osun,Political Science,2.8,Second Class Lower
+24.0,M,Yobe,Political Science,2.24,Third Class
+21.0,F,Ogun,Sociology,4.4,Second Class Upper
+38.0,F,Osun,Sociology,4.09,Second Class Upper
+19.0,M,Lagos,Sociology,2.52,Second Class Lower
+19.0,F,Ogun,Sociology,3.04,Second Class Lower
+29.0,M,Lagos,Microbiology,3.12,Second Class Lower
+20.0,F,Ogun,Microbiology,3.31,Second Class Lower
+17.0,F,Lagos,Microbiology,1.8,Third Class
+25.0,M,Lagos,Microbiology,1.73,Third Class
+27.0,M,Yobe,Microbiology,1.87,Third Class
+21.0,M,Ogun,Microbiology,1.66,Third Class
+19.0,F,Osun,Biochemistry And Nutrition,3.27,Second Class Lower
+17.0,F,Kwara,Computer Science,4.51,First Class
+20.0,M,Kwara,Computer Science,4.06,Second Class Upper
+18.0,F,Osun,Computer Science,4.32,Second Class Upper
+16.0,M,Ogun,Computer Science,3.53,Second Class Upper
+18.0,M,Oyo,Computer Science,3.66,Second Class Upper
+17.0,F,Osun,Computer Science,4.48,Second Class Upper
+19.0,M,Ogun,Computer Science,3.8,Second Class Upper
+19.0,F,Lagos,Computer Science,4.26,Second Class Upper
+17.0,F,Osun,Computer Science,3.53,Second Class Upper
+18.0,F,Oyo,Computer Science,3.96,Second Class Upper
+18.0,M,Lagos,Computer Science,3.54,Second Class Upper
+19.0,F,Osun,Computer Science,2.74,Second Class Lower
+20.0,F,Oyo,Computer Science,2.52,Second Class Lower
+16.0,M,Osun,Computer Science,3.17,Second Class Lower
+16.0,M,Osun,Computer Science,2.95,Second Class Lower
+17.0,M,Osun,Computer Science,2.85,Second Class Lower
+18.0,F,Ogun,Computer Science,2.92,Second Class Lower
+18.0,F,Lagos,Computer Science,3.17,Second Class Lower
+17.0,M,Osun,Computer Science,2.76,Second Class Lower
+22.0,M,Kwara,Computer Science,2.65,Second Class Lower
+17.0,M,Kwara,Computer Science,1.54,Third Class
+16.0,M,Ogun,Accounting,4.83,First Class
+42.0,F,Osun,Accounting,4.83,First Class
+36.0,M,Osun,Accounting,4.62,First Class
+49.0,M,Osun,Accounting,4.76,First Class
+17.0,F,Oyo,Accounting,4.98,First Class
+16.0,F,Oyo,Accounting,4.74,First Class
+15.0,F,Ogun,Accounting,4.26,Second Class Upper
+16.0,F,Oyo,Accounting,3.85,Second Class Upper
+16.0,F,Oyo,Accounting,4.05,Second Class Upper
+17.0,M,Oyo,Accounting,4.27,Second Class Upper
+40.0,F,Osun,Accounting,4.19,Second Class Upper
+16.0,M,Ogun,Accounting,4.09,Second Class Upper
+16.0,F,Ogun,Accounting,3.79,Second Class Upper
+24.0,M,Lagos,Accounting,3.56,Second Class Upper
+18.0,F,Ogun,Accounting,3.98,Second Class Upper
+37.0,M,Osun,Accounting,4.22,Second Class Upper
+38.0,F,Osun,Accounting,3.86,Second Class Upper
+17.0,F,Oyo,Accounting,4.22,Second Class Upper
+24.0,F,Lagos,Accounting,3.97,Second Class Upper
+17.0,F,Ogun,Accounting,3.57,Second Class Upper
+23.0,M,Oyo,Accounting,4.08,Second Class Upper
+19.0,F,Ogun,Accounting,4.04,Second Class Upper
+20.0,F,Kwara,Accounting,2.82,Second Class Lower
+19.0,F,Kwara,Accounting,2.7,Second Class Lower
+24.0,F,Osun,Accounting,3.48,Second Class Lower
+18.0,F,Ondo,Accounting,3.08,Second Class Lower
+46.0,M,Ogun,Accounting,3.22,Second Class Lower
+17.0,M,Osun,Accounting,2.54,Second Class Lower
+31.0,F,Osun,Accounting,3.23,Second Class Lower
+19.0,M,Osun,Accounting,2.66,Second Class Lower
+18.0,M,Oyo,Accounting,2.98,Second Class Lower
+18.0,F,Osun,Accounting,2.89,Second Class Lower
+16.0,F,Kwara,Accounting,2.89,Second Class Lower
+36.0,F,Osun,Accounting,3.28,Second Class Lower
+16.0,F,Lagos,Accounting,2.7,Second Class Lower
+27.0,M,Oyo,Accounting,3.44,Second Class Lower
+16.0,M,Lagos,Accounting,3.34,Second Class Lower
+31.0,M,Osun,Accounting,2.99,Second Class Lower
+18.0,M,Ogun,Accounting,3.37,Second Class Lower
+17.0,F,Oyo,Accounting,3.04,Second Class Lower
+35.0,F,Osun,Accounting,3.41,Second Class Lower
+16.0,F,Kwara,Accounting,2.98,Second Class Lower
+19.0,M,Ogun,Accounting,3.47,Second Class Lower
+17.0,F,Osun,Accounting,3.24,Second Class Lower
+31.0,M,Kwara,Accounting,3.15,Second Class Lower
+18.0,M,Ogun,Accounting,2.48,Third Class
+18.0,F,Lagos,Accounting,2.19,Third Class
+18.0,F,Kwara,Banking And Finance,3.74,Second Class Upper
+36.0,M,Osun,Banking And Finance,4.14,Second Class Upper
+22.0,F,Ogun,Banking And Finance,3.67,Second Class Upper
+18.0,F,Kwara,Banking And Finance,2.9,Second Class Lower
+17.0,M,Lagos,Banking And Finance,3.2,Second Class Lower
+18.0,M,Oyo,Banking And Finance,2.69,Second Class Lower
+19.0,M,Ogun,Banking And Finance,1.92,Third Class
+16.0,M,Kwara,Banking And Finance,1.73,Third Class
+37.0,F,Osun,Business Administration,4.71,First Class
+16.0,F,Ogun,Business Administration,3.73,Second Class Upper
+22.0,M,Osun,Business Administration,4.2,Second Class Upper
+25.0,M,Kwara,Business Administration,4.33,Second Class Upper
+26.0,F,Osun,Business Administration,3.98,Second Class Upper
+38.0,F,Osun,Business Administration,4.21,Second Class Upper
+38.0,F,Osun,Business Administration,3.25,Second Class Lower
+26.0,F,Ogun,Economics,3.3,Second Class Lower
+18.0,M,Oyo,Mass Communication,4.29,Second Class Upper
+16.0,F,Osun,Mass Communication,4.15,Second Class Upper
+18.0,F,Ogun,Mass Communication,4.23,Second Class Upper
+16.0,F,Osun,Mass Communication,4.22,Second Class Upper
+17.0,F,Osun,Mass Communication,4.02,Second Class Upper
+18.0,F,Osun,Mass Communication,4.29,Second Class Upper
+18.0,M,Ogun,Mass Communication,3.69,Second Class Upper
+19.0,F,Ogun,Mass Communication,4.21,Second Class Upper
+28.0,F,Osun,Mass Communication,4.13,Second Class Upper
+31.0,M,Ondo,Mass Communication,4.04,Second Class Upper
+24.0,F,Osun,Mass Communication,4.1,Second Class Upper
+36.0,M,Osun,Mass Communication,4.41,Second Class Upper
+28.0,M,Osun,Mass Communication,4.28,Second Class Upper
+28.0,F,Osun,Mass Communication,4.18,Second Class Upper
+37.0,M,Osun,Mass Communication,4.39,Second Class Upper
+19.0,M,Lagos,Mass Communication,3.36,Second Class Lower
+19.0,F,Oyo,Mass Communication,2.82,Second Class Lower
+22.0,F,Lagos,Mass Communication,3.35,Second Class Lower
+21.0,F,Ogun,Mass Communication,3.38,Second Class Lower
+18.0,F,Oyo,Mass Communication,3.08,Second Class Lower
+16.0,F,Lagos,Mass Communication,3.42,Second Class Lower
+17.0,F,Oyo,Mass Communication,2.67,Second Class Lower
+17.0,F,Kwara,Mass Communication,3.29,Second Class Lower
+17.0,F,Ondo,Mass Communication,2.74,Second Class Lower
+16.0,F,Ogun,Mass Communication,2.9,Second Class Lower
+18.0,M,Ogun,Mass Communication,3.0,Second Class Lower
+15.0,F,Kwara,Mass Communication,2.92,Second Class Lower
+19.0,M,Ogun,Mass Communication,3.01,Second Class Lower
+17.0,F,Ogun,Mass Communication,2.59,Second Class Lower
+21.0,M,Osun,Mass Communication,2.56,Second Class Lower
+19.0,F,Kwara,Mass Communication,3.22,Second Class Lower
+19.0,M,Osun,Mass Communication,2.77,Second Class Lower
+17.0,M,Oyo,Mass Communication,2.77,Second Class Lower
+16.0,F,Ogun,Mass Communication,3.19,Second Class Lower
+16.0,M,Ogun,Mass Communication,3.25,Second Class Lower
+28.0,M,Osun,Mass Communication,3.03,Second Class Lower
+17.0,F,Rivers,Mass Communication,3.31,Second Class Lower
+44.0,M,Kwara,Mass Communication,2.85,Second Class Lower
+24.0,M,Osun,Mass Communication,3.38,Second Class Lower
+21.0,M,Edo,Mass Communication,2.13,Third Class
+16.0,F,Osun,Political Science,4.92,First Class
+37.0,F,Osun,Political Science,3.31,Second Class Lower
+20.0,M,Kwara,Political Science,3.19,Second Class Lower
+42.0,M,Osun,Political Science,3.41,Second Class Lower
+16.0,M,Kogi,Sociology,4.25,Second Class Upper
+44.0,M,Osun,Sociology,3.95,Second Class Upper
+20.0,M,Osun,Sociology,2.62,Second Class Lower
+17.0,F,Osun,Biochemistry And Nutrition,4.7,First Class
+17.0,F,Lagos,Biochemistry And Nutrition,4.81,First Class
+16.0,F,Osun,Biochemistry And Nutrition,4.51,First Class
+17.0,F,Ogun,Biochemistry And Nutrition,4.09,Second Class Upper
+15.0,F,Ogun,Biochemistry And Nutrition,3.9,Second Class Upper
+17.0,F,Kwara,Biochemistry And Nutrition,3.97,Second Class Upper
+17.0,F,Niger,Biochemistry And Nutrition,3.57,Second Class Upper
+16.0,F,Ogun,Biochemistry And Nutrition,3.58,Second Class Upper
+17.0,F,Ogun,Biochemistry And Nutrition,4.14,Second Class Upper
+16.0,F,Osun,Biochemistry And Nutrition,3.77,Second Class Upper
+17.0,F,Oyo,Biochemistry And Nutrition,2.65,Second Class Lower
+18.0,F,Osun,Biochemistry And Nutrition,3.36,Second Class Lower
+18.0,M,Kwara,Industrial And Environmental Chemistry,3.56,Second Class Upper
+15.0,F,Oyo,Industrial And Environmental Chemistry,4.2,Second Class Upper
+17.0,M,Niger,Industrial And Environmental Chemistry,3.31,Second Class Lower
+29.0,M,Oyo,Computer Science,4.39,Second Class Upper
+25.0,M,Katsina,Computer Science,4.15,Second Class Upper
+17.0,M,Ogun,Computer Science,3.55,Second Class Upper
+20.0,M,Ogun,Computer Science,3.93,Second Class Upper
+31.0,M,Osun,Computer Science,4.37,Second Class Upper
+20.0,M,Osun,Computer Science,3.91,Second Class Upper
+19.0,M,Oyo,Computer Science,4.03,Second Class Upper
+20.0,F,Osun,Computer Science,3.24,Second Class Lower
+18.0,M,Oyo,Computer Science,3.07,Second Class Lower
+16.0,M,Ogun,Computer Science,2.86,Second Class Lower
+34.0,M,Oyo,Computer Science,3.09,Second Class Lower
+21.0,M,Lagos,Computer Science,2.96,Second Class Lower
+19.0,M,Ogun,Computer Science,2.83,Second Class Lower
+16.0,M,Edo,Computer Science,2.57,Second Class Lower
+20.0,M,Oyo,Computer Science,2.76,Second Class Lower
+18.0,M,Ogun,Computer Science,3.49,Second Class Lower
+29.0,M,Kwara,Computer Science,1.79,Third Class
+18.0,M,Niger,Computer Science,1.84,Third Class
+18.0,M,Ogun,Computer Science,2.47,Third Class
+17.0,F,Ogun,Accounting,4.55,First Class
+17.0,F,Kwara,Accounting,4.63,First Class
+16.0,F,Edo,Accounting,4.69,First Class
+17.0,F,Imo,Accounting,4.73,First Class
+16.0,F,Oyo,Accounting,4.7,First Class
+16.0,M,Kwara,Accounting,3.77,Second Class Upper
+17.0,M,Oyo,Accounting,3.65,Second Class Upper
+19.0,M,Ogun,Accounting,4.05,Second Class Upper
+17.0,F,Osun,Accounting,3.67,Second Class Upper
+18.0,F,Osun,Accounting,3.5,Second Class Upper
+19.0,F,Akwa Ibon,Accounting,4.25,Second Class Upper
+17.0,M,Ogun,Accounting,4.26,Second Class Upper
+18.0,F,Oyo,Accounting,3.86,Second Class Upper
+16.0,F,Osun,Accounting,4.37,Second Class Upper
+16.0,M,Ekiti,Accounting,3.66,Second Class Upper
+17.0,F,Kogi,Accounting,4.39,Second Class Upper
+22.0,F,Lagos,Accounting,4.17,Second Class Upper
+23.0,F,Osun,Accounting,4.16,Second Class Upper
+21.0,M,Oyo,Accounting,3.55,Second Class Upper
+18.0,M,Oyo,Accounting,3.25,Second Class Lower
+16.0,M,Ogun,Accounting,2.67,Second Class Lower
+18.0,M,Osun,Accounting,3.03,Second Class Lower
+16.0,M,Ogun,Accounting,3.04,Second Class Lower
+15.0,M,Osun,Accounting,2.56,Second Class Lower
+17.0,F,Kwara,Accounting,2.79,Second Class Lower
+16.0,M,Lagos,Accounting,3.41,Second Class Lower
+18.0,M,Oyo,Accounting,3.25,Second Class Lower
+17.0,F,Kwara,Accounting,2.8,Second Class Lower
+41.0,M,Osun,Accounting,3.47,Second Class Lower
+21.0,M,Oyo,Accounting,1.57,Third Class
+17.0,M,Osun,Accounting,2.15,Third Class
+20.0,F,Osun,Banking And Finance,4.9,First Class
+17.0,F,Oyo,Banking And Finance,3.34,Second Class Lower
+19.0,F,Oyo,Banking And Finance,3.14,Second Class Lower
+17.0,M,Ogun,Banking And Finance,3.23,Second Class Lower
+18.0,F,Oyo,Banking And Finance,2.74,Second Class Lower
+34.0,M,Oyo,Business Administration,4.89,First Class
+17.0,F,Oyo,Business Administration,4.84,First Class
+17.0,F,Osun,Business Administration,4.07,Second Class Upper
+19.0,F,Oyo,Business Administration,3.76,Second Class Upper
+50.0,M,Osun,Business Administration,4.17,Second Class Upper
+28.0,M,Ogun,Business Administration,3.55,Second Class Upper
+37.0,F,Ekiti,Business Administration,4.0,Second Class Upper
+20.0,F,Ogun,Business Administration,4.15,Second Class Upper
+18.0,M,Kwara,Business Administration,3.84,Second Class Upper
+38.0,F,Osun,Business Administration,4.09,Second Class Upper
+17.0,F,Oyo,Business Administration,3.56,Second Class Upper
+24.0,M,Osun,Business Administration,3.83,Second Class Upper
+18.0,F,Ogun,Business Administration,3.99,Second Class Upper
+17.0,F,Ogun,Business Administration,4.32,Second Class Upper
+17.0,F,Kwara,Business Administration,3.03,Second Class Lower
+17.0,M,Ogun,Business Administration,3.42,Second Class Lower
+17.0,F,Ogun,Business Administration,2.87,Second Class Lower
+17.0,M,Osun,Business Administration,3.38,Second Class Lower
+21.0,F,Lagos,Business Administration,3.08,Second Class Lower
+25.0,F,Osun,Business Administration,2.97,Second Class Lower
+17.0,M,Kwara,Business Administration,2.68,Second Class Lower
+21.0,M,Osun,Business Administration,3.32,Second Class Lower
+24.0,F,Osun,Business Administration,3.29,Second Class Lower
+34.0,F,Osun,Business Administration,2.88,Second Class Lower
+19.0,F,Lagos,Business Administration,1.82,Third Class
+19.0,F,Oyo,Economics,3.77,Second Class Upper
+17.0,F,Ogun,Economics,3.84,Second Class Upper
+18.0,F,Ogun,Economics,3.59,Second Class Upper
+20.0,F,Osun,Economics,4.35,Second Class Upper
+30.0,M,Osun,Economics,3.93,Second Class Upper
+18.0,F,Kwara,Economics,2.68,Second Class Lower
+32.0,M,Osun,Economics,2.17,Third Class
+17.0,F,Osun,Mass Communication,4.59,First Class
+18.0,F,Oyo,Mass Communication,4.37,Second Class Upper
+21.0,F,Oyo,Mass Communication,3.5,Second Class Upper
+19.0,F,Kwara,Mass Communication,4.05,Second Class Upper
+16.0,M,Lagos,Mass Communication,4.13,Second Class Upper
+19.0,F,Oyo,Mass Communication,3.84,Second Class Upper
+26.0,M,Osun,Mass Communication,3.69,Second Class Upper
+15.0,M,Oyo,Mass Communication,4.39,Second Class Upper
+18.0,F,Ogun,Mass Communication,4.09,Second Class Upper
+20.0,F,Osun,Mass Communication,4.19,Second Class Upper
+20.0,F,Osun,Mass Communication,3.66,Second Class Upper
+16.0,F,Kwara,Mass Communication,3.51,Second Class Upper
+20.0,F,Rivers,Mass Communication,4.4,Second Class Upper
+19.0,F,Ogun,Mass Communication,3.69,Second Class Upper
+18.0,F,Kwara,Mass Communication,3.55,Second Class Upper
+17.0,F,Kwara,Mass Communication,4.27,Second Class Upper
+24.0,F,Osun,Mass Communication,4.06,Second Class Upper
+24.0,M,Kwara,Mass Communication,2.52,Second Class Lower
+22.0,M,Osun,Mass Communication,3.05,Second Class Lower
+17.0,F,Osun,Mass Communication,3.0,Second Class Lower
+16.0,M,Ogun,Mass Communication,3.41,Second Class Lower
+21.0,F,Osun,Mass Communication,3.08,Second Class Lower
+17.0,M,Kwara,Mass Communication,2.65,Second Class Lower
+17.0,F,Lagos,Mass Communication,3.12,Second Class Lower
+20.0,M,Lagos,Mass Communication,3.29,Second Class Lower
+17.0,F,Osun,Mass Communication,3.46,Second Class Lower
+17.0,M,Lagos,Mass Communication,2.81,Second Class Lower
+22.0,M,Kwara,Mass Communication,3.07,Second Class Lower
+17.0,F,Osun,Mass Communication,2.55,Second Class Lower
+17.0,M,Benue,Mass Communication,3.45,Second Class Lower
+22.0,F,Osun,Mass Communication,2.64,Second Class Lower
+23.0,M,Osun,Mass Communication,3.15,Second Class Lower
+16.0,M,Osun,Mass Communication,3.35,Second Class Lower
+19.0,M,Lagos,Mass Communication,2.97,Second Class Lower
+19.0,M,Oyo,Mass Communication,3.47,Second Class Lower
+20.0,M,Oyo,Mass Communication,2.9,Second Class Lower
+18.0,F,Oyo,Mass Communication,3.06,Second Class Lower
+23.0,F,Osun,Mass Communication,3.34,Second Class Lower
+17.0,M,Ogun,Mass Communication,2.52,Second Class Lower
+18.0,F,Ogun,Mass Communication,3.35,Second Class Lower
+18.0,M,Osun,Mass Communication,3.34,Second Class Lower
+17.0,M,Lagos,Mass Communication,2.66,Second Class Lower
+19.0,F,Kwara,Mass Communication,2.19,Third Class
+18.0,F,Osun,Mass Communication,1.77,Third Class
+21.0,F,Oyo,Political Science,3.69,Second Class Upper
+37.0,F,Osun,Political Science,4.01,Second Class Upper
+39.0,M,Osun,Political Science,4.2,Second Class Upper
+17.0,F,Osun,Political Science,3.88,Second Class Upper
+45.0,M,Oyo,Political Science,3.84,Second Class Upper
+21.0,M,Lagos,Political Science,3.72,Second Class Upper
+21.0,M,Osun,Political Science,3.07,Second Class Lower
+17.0,M,Osun,Political Science,3.08,Second Class Lower
+19.0,M,Niger,Political Science,3.36,Second Class Lower
+31.0,F,Osun,Political Science,3.33,Second Class Lower
+19.0,M,Osun,Political Science,2.51,Second Class Lower
+18.0,M,Kwara,Political Science,1.65,Third Class
+17.0,F,Oyo,Sociology,3.63,Second Class Upper
+17.0,F,Oyo,Sociology,3.77,Second Class Upper
+18.0,F,Lagos,Sociology,3.23,Second Class Lower
+19.0,M,Ogun,Sociology,2.98,Second Class Lower
+16.0,F,Lagos,Sociology,3.22,Second Class Lower
+24.0,F,Osun,Sociology,3.33,Second Class Lower
+19.0,M,Kano,Sociology,2.87,Second Class Lower
+21.0,M,Ogun,Sociology,2.5,Second Class Lower
+22.0,F,Delta,Sociology,2.71,Second Class Lower
+18.0,F,Lagos,Biochemistry And Nutrition,4.81,First Class
+18.0,M,Osun,Biochemistry And Nutrition,4.07,Second Class Upper
+15.0,M,Osun,Biochemistry And Nutrition,3.7,Second Class Upper
+16.0,F,Ogun,Biochemistry And Nutrition,4.25,Second Class Upper
+16.0,F,Oyo,Biochemistry And Nutrition,3.53,Second Class Upper
+18.0,F,Oyo,Biochemistry And Nutrition,3.65,Second Class Upper
+17.0,F,Osun,Biochemistry And Nutrition,4.01,Second Class Upper
+15.0,M,Oyo,Biochemistry And Nutrition,3.1,Second Class Lower
+19.0,M,Oyo,Biochemistry And Nutrition,3.41,Second Class Lower
+16.0,F,Lagos,Biochemistry And Nutrition,2.88,Second Class Lower
+20.0,F,Oyo,Biochemistry And Nutrition,3.3,Second Class Lower
+18.0,F,Oyo,Biochemistry And Nutrition,2.97,Second Class Lower
+17.0,M,Oyo,Biochemistry And Nutrition,2.8,Second Class Lower
+16.0,F,Kwara,Biochemistry And Nutrition,3.44,Second Class Lower
+17.0,F,Ogun,Biochemistry And Nutrition,2.99,Second Class Lower
+18.0,F,Kwara,Biochemistry And Nutrition,2.2,Third Class
+19.0,M,Oyo,Industrial And Environmental Chemistry,3.79,Second Class Upper
+17.0,F,Osun,Industrial And Environmental Chemistry,3.38,Second Class Lower
+18.0,M,Oyo,Industrial And Environmental Chemistry,2.97,Second Class Lower
+17.0,M,Kogi,Industrial And Environmental Chemistry,1.55,Third Class
+25.0,M,Osun,Microbiology,1.57,Third Class
+19.0,M,Osun,Computer Science,4.68,First Class
+17.0,F,Ogun,Computer Science,4.71,First Class
+17.0,F,Lagos,Computer Science,3.61,Second Class Upper
+17.0,M,Ogun,Computer Science,4.34,Second Class Upper
+17.0,M,Kwara,Computer Science,4.05,Second Class Upper
+19.0,F,Ogun,Computer Science,4.44,Second Class Upper
+19.0,M,Ogun,Computer Science,4.14,Second Class Upper
+19.0,M,Oyo,Computer Science,4.29,Second Class Upper
+18.0,M,Osun,Computer Science,3.67,Second Class Upper
+17.0,M,Osun,Computer Science,2.54,Second Class Lower
+19.0,M,Kwara,Computer Science,2.73,Second Class Lower
+16.0,M,Osun,Computer Science,2.91,Second Class Lower
+17.0,M,Ogun,Computer Science,2.55,Second Class Lower
+17.0,M,Ogun,Computer Science,3.42,Second Class Lower
+17.0,M,Ogun,Computer Science,2.8,Second Class Lower
+20.0,M,Oyo,Computer Science,3.28,Second Class Lower
+17.0,F,Osun,Computer Science,2.55,Second Class Lower
+20.0,F,Ondo,Computer Science,3.34,Second Class Lower
+16.0,M,Ogun,Computer Science,2.83,Second Class Lower
+34.0,F,Osun,Computer Science,3.01,Second Class Lower
+18.0,M,Oyo,Computer Science,2.1,Third Class
+15.0,M,Kwara,Computer Science,2.1,Third Class
+16.0,F,Ogun,Accounting,4.65,First Class
+19.0,M,Oyo,Accounting,4.63,First Class
+21.0,F,Ogun,Accounting,3.88,Second Class Upper
+15.0,F,Ogun,Accounting,4.05,Second Class Upper
+18.0,F,Lagos,Accounting,3.5,Second Class Upper
+16.0,F,Lagos,Accounting,3.72,Second Class Upper
+15.0,F,Kogi,Accounting,3.57,Second Class Upper
+16.0,F,Lagos,Accounting,4.32,Second Class Upper
+18.0,F,Oyo,Accounting,4.19,Second Class Upper
+16.0,F,Ogun,Accounting,4.32,Second Class Upper
+20.0,F,Ogun,Accounting,4.16,Second Class Upper
+16.0,M,Ogun,Accounting,3.53,Second Class Upper
+19.0,F,Oyo,Accounting,3.82,Second Class Upper
+18.0,F,Rivers,Accounting,4.37,Second Class Upper
+16.0,F,Osun,Accounting,3.96,Second Class Upper
+17.0,M,Osun,Accounting,2.82,Second Class Lower
+16.0,F,Ekiti,Accounting,2.66,Second Class Lower
+20.0,M,Ondo,Accounting,3.4,Second Class Lower
+16.0,M,Osun,Accounting,2.59,Second Class Lower
+17.0,F,Ogun,Accounting,2.86,Second Class Lower
+18.0,M,Kwara,Accounting,2.81,Second Class Lower
+18.0,M,Oyo,Accounting,3.13,Second Class Lower
+19.0,F,Ogun,Accounting,3.4,Second Class Lower
+17.0,M,Oyo,Accounting,3.23,Second Class Lower
+18.0,F,Osun,Accounting,3.46,Second Class Lower
+22.0,M,Imo,Accounting,1.78,Third Class
+18.0,M,Oyo,Accounting,2.24,Third Class
+17.0,F,Ogun,Banking And Finance,4.21,Second Class Upper
+22.0,M,Oyo,Banking And Finance,1.55,Third Class
+16.0,F,Osun,Business Administration,4.79,First Class
+17.0,F,Oyo,Business Administration,4.37,Second Class Upper
+46.0,F,Osun,Business Administration,3.53,Second Class Upper
+25.0,M,Kwara,Business Administration,3.73,Second Class Upper
+20.0,M,Osun,Business Administration,3.03,Second Class Lower
+16.0,F,Ogun,Business Administration,3.1,Second Class Lower
+22.0,M,Ogun,Business Administration,3.04,Second Class Lower
+20.0,F,Rivers,Business Administration,3.37,Second Class Lower
+18.0,M,Ogun,Business Administration,1.88,Third Class
+17.0,F,Oyo,Business Administration,2.15,Third Class
+24.0,M,Osun,Business Administration,3.04,Second Class Lower
+22.0,M,Lagos,Economics,3.31,Second Class Lower
+16.0,F,Ondo,Mass Communication,4.7,First Class
+15.0,F,Ogun,Mass Communication,4.96,First Class
+17.0,F,Osun,Mass Communication,4.34,Second Class Upper
+15.0,F,Ogun,Mass Communication,4.22,Second Class Upper
+18.0,F,Oyo,Mass Communication,4.41,Second Class Upper
+21.0,F,Osun,Mass Communication,4.16,Second Class Upper
+18.0,F,Ogun,Mass Communication,3.79,Second Class Upper
+16.0,M,Oyo,Mass Communication,4.45,Second Class Upper
+16.0,F,Kwara,Mass Communication,3.85,Second Class Upper
+15.0,F,Ogun,Mass Communication,3.84,Second Class Upper
+19.0,M,Oyo,Mass Communication,4.12,Second Class Upper
+19.0,F,Osun,Mass Communication,4.0,Second Class Upper
+19.0,F,Oyo,Mass Communication,4.49,Second Class Upper
+19.0,M,Osun,Mass Communication,2.91,Second Class Lower
+20.0,M,Edo,Mass Communication,3.42,Second Class Lower
+20.0,M,Oyo,Mass Communication,2.95,Second Class Lower
+20.0,F,Osun,Mass Communication,2.72,Second Class Lower
+18.0,M,Ogun,Mass Communication,3.03,Second Class Lower
+20.0,F,Ogun,Mass Communication,3.17,Second Class Lower
+17.0,F,Kwara,Mass Communication,2.8,Second Class Lower
+16.0,F,Kano,Mass Communication,3.08,Second Class Lower
+19.0,F,Oyo,Mass Communication,2.93,Second Class Lower
+16.0,M,Osun,Mass Communication,2.52,Second Class Lower
+17.0,F,Oyo,Mass Communication,2.56,Second Class Lower
+18.0,F,Osun,Mass Communication,2.88,Second Class Lower
+17.0,F,Osun,Mass Communication,3.19,Second Class Lower
+17.0,M,Oyo,Mass Communication,2.66,Second Class Lower
+25.0,M,Oyo,Mass Communication,3.45,Second Class Lower
+19.0,F,Oyo,Mass Communication,2.86,Second Class Lower
+22.0,F,Lagos,Mass Communication,2.61,Second Class Lower
+18.0,F,Osun,Mass Communication,2.68,Second Class Lower
+21.0,M,Oyo,Mass Communication,3.41,Second Class Lower
+19.0,F,Kwara,Mass Communication,3.34,Second Class Lower
+20.0,F,Ogun,Mass Communication,3.16,Second Class Lower
+33.0,M,Ekiti,Political Science,3.56,Second Class Upper
+18.0,F,Kwara,Political Science,3.14,Second Class Lower
+19.0,M,Kwara,Political Science,2.52,Second Class Lower
+17.0,M,Kwara,Political Science,2.73,Second Class Lower
+18.0,M,Osun,Political Science,2.57,Second Class Lower
+19.0,F,Lagos,Political Science,3.16,Second Class Lower
+19.0,M,Osun,Political Science,3.31,Second Class Lower
+29.0,M,Lagos,Political Science,2.76,Second Class Lower
+37.0,M,Osun,Political Science,3.49,Second Class Lower
+18.0,M,Osun,Political Science,2.04,Third Class
+22.0,M,Oyo,Sociology,4.34,Second Class Upper
+18.0,M,Ogun,Sociology,2.69,Second Class Lower
+21.0,F,Kwara,Sociology,3.29,Second Class Lower
+23.0,M,Ogun,Sociology,2.12,Third Class
+24.0,M,Osun,Sociology,1.58,Third Class
+18.0,M,Abuja,Sociology,2.26,Third Class
+19.0,F,Ogun,Biochemistry And Nutrition,3.26,Second Class Lower
+21.0,F,Kwara,Biochemistry And Nutrition,1.87,Third Class
+17.0,M,Lagos,Industrial And Environmental Chemistry,4.63,First Class
+18.0,M,Osun,Computer Science,4.54,First Class
+16.0,F,Osun,Computer Science,4.8,First Class
+20.0,M,Ogun,Computer Science,4.65,First Class
+17.0,F,Osun,Computer Science,3.73,Second Class Upper
+18.0,M,Ogun,Computer Science,3.94,Second Class Upper
+20.0,F,Osun,Computer Science,3.63,Second Class Upper
+18.0,M,Lagos,Computer Science,4.15,Second Class Upper
+22.0,M,Ondo,Computer Science,3.82,Second Class Upper
+16.0,M,Osun,Computer Science,3.79,Second Class Upper
+22.0,M,Ogun,Computer Science,3.93,Second Class Upper
+20.0,M,Ogun,Computer Science,3.93,Second Class Upper
+19.0,M,Ogun,Computer Science,2.93,Second Class Lower
+17.0,F,Osun,Computer Science,2.75,Second Class Lower
+18.0,M,Osun,Computer Science,3.25,Second Class Lower
+19.0,M,Kwara,Computer Science,3.39,Second Class Lower
+16.0,M,Ogun,Computer Science,3.06,Second Class Lower
+21.0,M,Oyo,Computer Science,3.21,Second Class Lower
+19.0,M,Oyo,Computer Science,3.3,Second Class Lower
+19.0,M,Ogun,Computer Science,2.78,Second Class Lower
+19.0,M,Osun,Computer Science,3.36,Second Class Lower
+24.0,M,Ondo,Computer Science,3.06,Second Class Lower
+16.0,M,Kwara,Computer Science,3.13,Second Class Lower
+18.0,M,Kwara,Computer Science,3.05,Second Class Lower
+23.0,M,Kwara,Computer Science,2.38,Third Class
+22.0,M,Osun,Computer Science,1.99,Third Class
+19.0,M,Ogun,Computer Science,2.2,Third Class
+17.0,F,Kwara,Accounting,3.76,Second Class Upper
+21.0,F,Lagos,Accounting,3.66,Second Class Upper
+15.0,F,Lagos,Accounting,4.03,Second Class Upper
+15.0,F,Oyo,Accounting,4.32,Second Class Upper
+16.0,M,Lagos,Accounting,3.64,Second Class Upper
+18.0,F,Ogun,Accounting,4.22,Second Class Upper
+16.0,F,Kwara,Accounting,3.77,Second Class Upper
+17.0,M,Osun,Accounting,2.61,Second Class Lower
+18.0,F,Ogun,Accounting,3.3,Second Class Lower
+18.0,F,Oyo,Accounting,2.56,Second Class Lower
+18.0,M,Lagos,Accounting,2.92,Second Class Lower
+18.0,F,Osun,Accounting,3.15,Second Class Lower
+20.0,M,Osun,Accounting,2.2,Third Class
+18.0,F,Lagos,Banking And Finance,3.26,Second Class Lower
+20.0,F,Osun,Banking And Finance,2.6,Second Class Lower
+21.0,F,Delta,Business Administration,3.63,Second Class Upper
+20.0,F,Oyo,Business Administration,3.8,Second Class Upper
+17.0,M,Ogun,Business Administration,3.33,Second Class Lower
+17.0,F,Oyo,Business Administration,3.39,Second Class Lower
+18.0,M,Ondo,Business Administration,2.92,Second Class Lower
+18.0,M,Oyo,Business Administration,2.78,Second Class Lower
+20.0,M,Kwara,Business Administration,3.11,Second Class Lower
+17.0,M,Ogun,Business Administration,2.93,Second Class Lower
+16.0,F,Osun,Business Administration,2.52,Second Class Lower
+18.0,M,Kwara,Business Administration,3.1,Second Class Lower
+16.0,M,Oyo,Business Administration,3.42,Second Class Lower
+18.0,M,Oyo,Business Administration,3.16,Second Class Lower
+18.0,M,Kwara,Business Administration,2.22,Third Class
+17.0,M,Oyo,Business Administration,1.57,Third Class
+18.0,F,Ogun,Business Administration,2.11,Third Class
+21.0,F,Oyo,Business Administration,2.43,Third Class
+29.0,M,Bauchi,Business Administration,1.77,Third Class
+16.0,F,Kwara,Economics,3.82,Second Class Upper
+15.0,M,Lagos,Economics,3.75,Second Class Upper
+17.0,F,Oyo,Economics,4.09,Second Class Upper
+21.0,F,Osun,Economics,2.84,Second Class Lower
+21.0,M,Oyo,Economics,3.34,Second Class Lower
+21.0,M,Osun,Economics,2.17,Third Class
+16.0,F,Oyo,Mass Communication,4.77,First Class
+19.0,F,Oyo,Mass Communication,4.25,Second Class Upper
+17.0,F,Oyo,Mass Communication,3.71,Second Class Upper
+16.0,F,Osun,Mass Communication,3.75,Second Class Upper
+16.0,F,Oyo,Mass Communication,3.92,Second Class Upper
+17.0,F,Oyo,Mass Communication,3.89,Second Class Upper
+16.0,F,Kwara,Mass Communication,3.94,Second Class Upper
+17.0,F,Oyo,Mass Communication,4.48,Second Class Upper
+19.0,F,Rivers,Mass Communication,3.82,Second Class Upper
+20.0,F,Lagos,Mass Communication,4.34,Second Class Upper
+18.0,F,Oyo,Mass Communication,4.33,Second Class Upper
+19.0,M,Lagos,Mass Communication,3.81,Second Class Upper
+19.0,F,Ogun,Mass Communication,3.89,Second Class Upper
+17.0,F,Kwara,Mass Communication,3.52,Second Class Upper
+21.0,F,Ogun,Mass Communication,4.19,Second Class Upper
+17.0,M,Ogun,Mass Communication,2.98,Second Class Lower
+21.0,M,Lagos,Mass Communication,2.67,Second Class Lower
+17.0,M,Kwara,Mass Communication,3.39,Second Class Lower
+16.0,F,Osun,Mass Communication,2.94,Second Class Lower
+15.0,F,Osun,Mass Communication,2.74,Second Class Lower
+17.0,F,Lagos,Mass Communication,2.97,Second Class Lower
+17.0,F,Oyo,Mass Communication,2.67,Second Class Lower
+17.0,F,Oyo,Mass Communication,2.74,Second Class Lower
+20.0,F,Oyo,Mass Communication,3.14,Second Class Lower
+18.0,F,Osun,Mass Communication,3.15,Second Class Lower
+17.0,F,Ogun,Mass Communication,2.6,Second Class Lower
+23.0,M,Kwara,Mass Communication,3.23,Second Class Lower
+17.0,F,Osun,Mass Communication,3.26,Second Class Lower
+17.0,F,Ekiti,Mass Communication,2.03,Third Class
+18.0,F,Osun,Mass Communication,2.1,Third Class
+16.0,F,Lagos,Political Science,4.81,First Class
+18.0,F,Osun,Political Science,4.27,Second Class Upper
+20.0,F,Oyo,Political Science,3.21,Second Class Lower
+17.0,F,Ondo,Political Science,3.28,Second Class Lower
+20.0,F,Delta,Political Science,3.01,Second Class Lower
+20.0,F,Kwara,Political Science,2.96,Second Class Lower
+18.0,F,Oyo,Sociology,3.64,Second Class Upper
+18.0,M,Lagos,Sociology,3.16,Second Class Lower
+16.0,M,Kwara,Sociology,2.14,Third Class
+16.0,M,Kwara,Computer Science,4.89,First Class
+17.0,M,Ogun,Computer Science,4.14,Second Class Upper
+16.0,M,Ogun,Computer Science,3.99,Second Class Upper
+17.0,M,Ogun,Computer Science,3.56,Second Class Upper
+17.0,F,Oyo,Computer Science,4.14,Second Class Upper
+21.0,F,Osun,Computer Science,4.17,Second Class Upper
+16.0,M,Oyo,Computer Science,3.63,Second Class Upper
+16.0,M,Abuja,Computer Science,2.73,Second Class Lower
+16.0,F,Ogun,Computer Science,2.96,Second Class Lower
+16.0,M,Osun,Computer Science,2.62,Second Class Lower
+16.0,M,Ogun,Computer Science,3.48,Second Class Lower
+16.0,M,Osun,Computer Science,2.57,Second Class Lower
+21.0,M,Kwara,Computer Science,3.19,Second Class Lower
+18.0,M,Osun,Computer Science,3.36,Second Class Lower
+18.0,F,Kwara,Computer Science,2.56,Second Class Lower
+15.0,F,Osun,Computer Science,2.97,Second Class Lower
+17.0,M,Ogun,Computer Science,1.94,Third Class
+17.0,F,Oyo,Computer Science,2.47,Third Class
+18.0,M,Ogun,Computer Science,2.45,Third Class
+39.0,M,Osun,Environmental Health Science,4.79,First Class
+28.0,F,Osun,Environmental Health Science,4.24,Second Class Upper
+43.0,F,Osun,Environmental Health Science,4.36,Second Class Upper
+41.0,F,Osun,Environmental Health Science,3.61,Second Class Upper
+33.0,M,Osun,Environmental Health Science,3.61,Second Class Upper
+40.0,M,Osun,Environmental Health Science,4.13,Second Class Upper
+33.0,M,Osun,Environmental Health Science,4.4,Second Class Upper
+25.0,M,Osun,Environmental Health Science,4.2,Second Class Upper
+29.0,F,Osun,Environmental Health Science,4.4,Second Class Upper
+39.0,M,Osun,Environmental Health Science,3.66,Second Class Upper
+32.0,F,Osun,Environmental Health Science,3.77,Second Class Upper
+33.0,M,Osun,Environmental Health Science,2.69,Second Class Lower
+41.0,F,Osun,Environmental Health Science,3.03,Second Class Lower
+19.0,F,Osun,Public Health,4.45,Second Class Upper
+44.0,F,Osun,Public Health,2.7,Second Class Lower
+19.0,F,Oyo,Accounting,4.72,First Class
+17.0,F,Oyo,Accounting,4.73,First Class
+17.0,M,Oyo,Accounting,4.77,First Class
+17.0,F,Ogun,Accounting,3.8,Second Class Upper
+17.0,M,Osun,Accounting,2.94,Second Class Lower
+16.0,M,Osun,Accounting,2.5,Second Class Lower
+17.0,M,Lagos,Accounting,2.5,Second Class Lower
+18.0,M,Ogun,Accounting,2.02,Third Class
+20.0,M,Osun,Accounting,1.6,Third Class
+16.0,M,Ogun,Business Administration,4.8,First Class
+19.0,M,Lagos,Business Administration,3.91,Second Class Upper
+17.0,M,Ondo,Business Administration,3.93,Second Class Upper
+18.0,F,Ondo,Business Administration,3.79,Second Class Upper
+16.0,F,Ogun,Business Administration,4.35,Second Class Upper
+22.0,M,Osun,Business Administration,2.84,Second Class Lower
+17.0,F,Oyo,Business Administration,3.36,Second Class Lower
+20.0,M,Ogun,Business Administration,2.57,Second Class Lower
+20.0,F,Osun,Business Administration,3.13,Second Class Lower
+18.0,M,Ogun,Business Administration,2.68,Second Class Lower
+17.0,F,Osun,Business Administration,3.42,Second Class Lower
+27.0,M,Ogun,Business Administration,2.54,Second Class Lower
+18.0,M,Lagos,Business Administration,3.32,Second Class Lower
+17.0,M,Oyo,Business Administration,2.26,Third Class
+18.0,M,Lagos,Business Administration,1.89,Third Class
+18.0,M,Lagos,Business Administration,1.56,Third Class
+21.0,M,Oyo,Business Administration,2.2,Third Class
+19.0,F,Osun,Mass Communication,4.22,Second Class Upper
+17.0,F,Oyo,Mass Communication,4.28,Second Class Upper
+16.0,F,Lagos,Mass Communication,4.17,Second Class Upper
+16.0,F,Oyo,Mass Communication,4.31,Second Class Upper
+18.0,M,Kwara,Mass Communication,3.89,Second Class Upper
+18.0,F,Lagos,Mass Communication,4.14,Second Class Upper
+17.0,M,Osun,Mass Communication,4.39,Second Class Upper
+16.0,F,Lagos,Mass Communication,3.79,Second Class Upper
+18.0,M,Kogi,Mass Communication,3.72,Second Class Upper
+17.0,F,Osun,Mass Communication,3.8,Second Class Upper
+17.0,M,Ogun,Mass Communication,3.52,Second Class Upper
+19.0,F,Ogun,Mass Communication,4.33,Second Class Upper
+16.0,M,Osun,Mass Communication,3.67,Second Class Upper
+16.0,F,Lagos,Mass Communication,3.51,Second Class Upper
+23.0,F,Oyo,Mass Communication,3.76,Second Class Upper
+17.0,F,Osun,Mass Communication,3.97,Second Class Upper
+16.0,F,Kwara,Mass Communication,4.39,Second Class Upper
+20.0,F,Kwara,Mass Communication,2.85,Second Class Lower
+18.0,M,Osun,Mass Communication,3.36,Second Class Lower
+19.0,M,Osun,Mass Communication,3.42,Second Class Lower
+17.0,M,Kwara,Mass Communication,3.48,Second Class Lower
+16.0,F,Osun,Mass Communication,3.08,Second Class Lower
+17.0,F,Osun,Mass Communication,3.15,Second Class Lower
+17.0,F,Kwara,Mass Communication,3.05,Second Class Lower
+21.0,M,Oyo,Mass Communication,3.28,Second Class Lower
+16.0,F,Ogun,Mass Communication,3.18,Second Class Lower
+18.0,F,Osun,Mass Communication,2.6,Second Class Lower
+19.0,M,Kwara,Mass Communication,2.91,Second Class Lower
+18.0,F,Kwara,Mass Communication,3.34,Second Class Lower
+17.0,F,Kogi,Mass Communication,1.92,Third Class
+20.0,F,Lagos,Mass Communication,2.28,Third Class
+29.0,M,Ogun,Political Science,3.34,Second Class Lower
+18.0,F,Oyo,Political Science,2.26,Third Class
+17.0,M,Oyo,Political Science,2.22,Third Class
+18.0,M,Osun,Sociology,2.83,Second Class Lower
+25.0,M,Rivers,Sociology,3.0,Second Class Lower
+46.0,M,Osun,Biochemistry And Nutrition,3.33,Second Class Lower
+46.0,F,Osun,Biochemistry And Nutrition,2.93,Second Class Lower
+16.0,M,Ogun,Biochemistry And Nutrition,2.07,Third Class
+17.0,F,Ogun,Industrial And Environmental Chemistry,3.55,Second Class Upper
+29.0,M,Osun,Industrial And Environmental Chemistry,2.93,Second Class Lower
+15.0,F,Osun,Computer Science,4.75,First Class
+18.0,F,Ogun,Computer Science,4.58,First Class
+16.0,M,Osun,Computer Science,4.69,First Class
+17.0,M,Osun,Computer Science,3.58,Second Class Upper
+23.0,F,Osun,Computer Science,4.46,Second Class Upper
+43.0,M,Ekiti,Computer Science,3.64,Second Class Upper
+19.0,M,Lagos,Computer Science,4.21,Second Class Upper
+33.0,F,Osun,Computer Science,3.76,Second Class Upper
+17.0,F,Osun,Computer Science,4.47,Second Class Upper
+17.0,M,Kwara,Computer Science,4.35,Second Class Upper
+23.0,M,Oyo,Computer Science,4.03,Second Class Upper
+16.0,M,Osun,Computer Science,3.74,Second Class Upper
+18.0,F,Lagos,Computer Science,3.59,Second Class Upper
+17.0,M,Lagos,Computer Science,3.92,Second Class Upper
+20.0,M,Niger,Computer Science,3.83,Second Class Upper
+19.0,M,Ogun,Computer Science,2.71,Second Class Lower
+17.0,M,Osun,Computer Science,3.42,Second Class Lower
+17.0,M,Osun,Computer Science,3.11,Second Class Lower
+35.0,M,Osun,Computer Science,2.62,Second Class Lower
+18.0,M,Oyo,Computer Science,2.96,Second Class Lower
+17.0,F,Lagos,Computer Science,2.82,Second Class Lower
+27.0,M,Kwara,Computer Science,3.28,Second Class Lower
+18.0,M,Osun,Computer Science,3.07,Second Class Lower
+38.0,F,Osun,Computer Science,2.52,Second Class Lower
+37.0,F,Osun,Computer Science,3.03,Second Class Lower
+18.0,M,Oyo,Computer Science,2.98,Second Class Lower
+17.0,M,Lagos,Computer Science,1.76,Third Class
+16.0,M,Osun,Microbiology,4.72,First Class
+18.0,F,Osun,Microbiology,4.63,First Class
+18.0,F,Oyo,Microbiology,3.63,Second Class Upper
+18.0,F,Kaduna,Microbiology,3.79,Second Class Upper
+16.0,M,Oyo,Microbiology,4.48,Second Class Upper
+16.0,M,Lagos,Microbiology,3.56,Second Class Upper
+25.0,F,Osun,Microbiology,4.07,Second Class Upper
+20.0,F,Oyo,Microbiology,3.31,Second Class Lower
+16.0,M,Osun,Microbiology,3.36,Second Class Lower
+33.0,M,Osun,Microbiology,2.96,Second Class Lower
+21.0,M,Osun,Microbiology,3.2,Second Class Lower
+16.0,F,Osun,Microbiology,2.97,Second Class Lower
+17.0,F,Ogun,Microbiology,3.06,Second Class Lower
+25.0,M,Osun,Environmental Health Science,3.65,Second Class Upper
+25.0,F,Osun,Environmental Health Science,4.31,Second Class Upper
+36.0,F,Osun,Environmental Health Science,4.29,Second Class Upper
+46.0,M,Osun,Environmental Health Science,3.76,Second Class Upper
+29.0,F,Osun,Environmental Health Science,4.1,Second Class Upper
+46.0,M,Osun,Environmental Health Science,3.7,Second Class Upper
+29.0,M,Osun,Medical Laboratory Sciences,4.9,First Class
+17.0,F,Lagos,Medical Laboratory Sciences,4.57,First Class
+40.0,M,Kogi,Medical Laboratory Sciences,3.7,Second Class Upper
+17.0,M,Osun,Medical Laboratory Sciences,3.96,Second Class Upper
+20.0,F,Niger,Medical Laboratory Sciences,3.82,Second Class Upper
+16.0,F,Niger,Medical Laboratory Sciences,2.93,Second Class Lower
+18.0,F,Kwara,Nursing Sciences,1.06,Pass
+20.0,M,Oyo,Nursing Sciences,1.35,Pass
+17.0,F,Oyo,Nursing Sciences,1.08,Pass
+19.0,M,Ekiti,Nursing Sciences,1.05,Pass
+16.0,F,Osun,Nursing Sciences,1.26,Pass
+16.0,F,Oyo,Nursing Sciences,1.41,Pass
+16.0,F,Osun,Nursing Sciences,1.32,Pass
+16.0,F,Kwara,Nursing Sciences,1.36,Pass
+19.0,M,Oyo,Nursing Sciences,1.13,Pass
+21.0,F,Lagos,Nursing Sciences,1.18,Pass
+21.0,F,Ogun,Nursing Sciences,1.29,Pass
+16.0,F,Oyo,Nursing Sciences,1.15,Pass
+17.0,F,Ogun,Nursing Sciences,1.18,Pass
+17.0,F,Ogun,Nursing Sciences,1.38,Pass
+16.0,F,Ogun,Nursing Sciences,1.04,Pass
+20.0,M,Lagos,Nursing Sciences,1.32,Pass
+16.0,F,Ogun,Nursing Sciences,1.14,Pass
+16.0,F,Osun,Nursing Sciences,1.13,Pass
+19.0,M,Osun,Nursing Sciences,1.4,Pass
+16.0,F,Osun,Nursing Sciences,1.4,Pass
+15.0,F,Osun,Nursing Sciences,1.03,Pass
+23.0,F,Oyo,Nursing Sciences,1.04,Pass
+15.0,F,Kwara,Nursing Sciences,1.18,Pass
+15.0,F,Osun,Nursing Sciences,1.22,Pass
+18.0,F,Lagos,Nursing Sciences,1.2,Pass
+15.0,F,Oyo,Nursing Sciences,1.32,Pass
+17.0,F,Kwara,Nursing Sciences,1.18,Pass
+16.0,F,Ogun,Nursing Sciences,1.11,Pass
+17.0,F,Kwara,Nursing Sciences,1.48,Pass
+16.0,F,Lagos,Nursing Sciences,1.49,Pass
+20.0,F,Osun,Nursing Sciences,1.4,Pass
+18.0,F,Edo,Nursing Sciences,1.41,Pass
+16.0,F,Osun,Public Health,4.47,Second Class Upper
+16.0,F,Osun,Public Health,4.28,Second Class Upper
+16.0,M,Ogun,Public Health,3.06,Second Class Lower
+19.0,F,Lagos,Public Health,2.55,Second Class Lower
+18.0,M,Oyo,Public Health,2.7,Second Class Lower
